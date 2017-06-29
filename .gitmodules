@@ -40,3 +40,6 @@
 [submodule "start/tagbar"]
 	path = start/tagbar
 	url = git://github.com/majutsushi/tagbar.git
+[submodule "start/vim-tmux"]
+	path = start/vim-tmux
+	url = git://github.com/tmux-plugins/vim-tmux.git
