@@ -43,3 +43,9 @@
 [submodule "start/vim-tmux"]
 	path = start/vim-tmux
 	url = git://github.com/tmux-plugins/vim-tmux.git
+[submodule "start/vim-online-thesaurus"]
+	path = start/vim-online-thesaurus
+	url = git://github.com/beloglazov/vim-online-thesaurus.git
+[submodule "start/startuptime.vim"]
+	path = start/startuptime.vim
+	url = git://github.com/tweekmonster/startuptime.vim.git
