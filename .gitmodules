@@ -22,3 +22,6 @@
 [submodule "start/vim-css-color"]
 	path = start/vim-css-color
 	url = https://github.com/ap/vim-css-color
+[submodule "start/vim-go"]
+	path = start/vim-go
+	url = git://github.com/fatih/vim-go.git
