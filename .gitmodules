@@ -25,3 +25,9 @@
 [submodule "start/vim-go"]
 	path = start/vim-go
 	url = git://github.com/fatih/vim-go.git
+[submodule "start/vim-pandoc-syntax"]
+	path = start/vim-pandoc-syntax
+	url = git://github.com/vim-pandoc/vim-pandoc-syntax.git
+[submodule "start/vim-pandoc"]
+	path = start/vim-pandoc
+	url = git://github.com/vim-pandoc/vim-pandoc.git
