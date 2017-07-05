@@ -25,9 +25,30 @@
 [submodule "start/vim-go"]
 	path = start/vim-go
 	url = git://github.com/fatih/vim-go.git
-[submodule "start/vim-pandoc-syntax"]
-	path = start/vim-pandoc-syntax
-	url = git://github.com/vim-pandoc/vim-pandoc-syntax.git
+[submodule "start/vim-emoji"]
+	path = start/vim-emoji
+	url = git://github.com/junegunn/vim-emoji.git
 [submodule "start/vim-pandoc"]
 	path = start/vim-pandoc
 	url = git://github.com/vim-pandoc/vim-pandoc.git
+[submodule "start/vim-pandoc-syntax"]
+	path = start/vim-pandoc-syntax
+	url = git://github.com/vim-pandoc/vim-pandoc-syntax.git
+[submodule "opt/jellybeans.vim"]
+	path = opt/jellybeans.vim
+	url = git://github.com/nanotech/jellybeans.vim.git
+[submodule "start/tagbar"]
+	path = start/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule "start/vim-tmux"]
+	path = start/vim-tmux
+	url = git://github.com/tmux-plugins/vim-tmux.git
+[submodule "start/vim-online-thesaurus"]
+	path = start/vim-online-thesaurus
+	url = git://github.com/beloglazov/vim-online-thesaurus.git
+[submodule "start/startuptime.vim"]
+	path = start/startuptime.vim
+	url = git://github.com/tweekmonster/startuptime.vim.git
+[submodule "start/vim-python-pep8-indent"]
+	path = start/vim-python-pep8-indent
+	url = git://github.com/Vimjas/vim-python-pep8-indent.git
