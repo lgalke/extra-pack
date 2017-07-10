@@ -52,3 +52,6 @@
 [submodule "start/vim-python-pep8-indent"]
 	path = start/vim-python-pep8-indent
 	url = git://github.com/Vimjas/vim-python-pep8-indent.git
+[submodule "opt/vim-game-code-break"]
+	path = opt/vim-game-code-break
+	url = git://github.com/johngrib/vim-game-code-break.git
