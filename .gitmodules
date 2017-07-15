@@ -55,3 +55,6 @@
 [submodule "opt/vim-game-code-break"]
 	path = opt/vim-game-code-break
 	url = git://github.com/johngrib/vim-game-code-break.git
+[submodule "start/fugitive-gitlab.vim"]
+	path = start/fugitive-gitlab.vim
+	url = git://github.com/shumphrey/fugitive-gitlab.vim.git
