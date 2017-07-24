@@ -58,3 +58,6 @@
 [submodule "start/fugitive-gitlab.vim"]
 	path = start/fugitive-gitlab.vim
 	url = git://github.com/shumphrey/fugitive-gitlab.vim.git
+[submodule "opt/vim-colors-pencil"]
+	path = opt/vim-colors-pencil
+	url = git://github.com/reedes/vim-colors-pencil.git
