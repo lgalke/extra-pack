@@ -59,7 +59,7 @@
 	path = opt/vim-colors-pencil
 	url = git://github.com/reedes/vim-colors-pencil.git
 [submodule "vim-compiler-vale"]
-	path = vim-compiler-vale
+	path = start/vim-compiler-vale
 	url = git://github.com/lgalke/vim-compiler-vale.git
 [submodule "start/fugitive-gitlab.vim"]
 	path = start/fugitive-gitlab.vim
