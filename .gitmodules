@@ -64,3 +64,6 @@
 [submodule "start/fugitive-gitlab.vim"]
 	path = start/fugitive-gitlab.vim
 	url = git://github.com/shumphrey/fugitive-gitlab.vim.git
+[submodule "start/vim-auto-programming"]
+	path = start/vim-auto-programming
+	url = git://github.com/haya14busa/vim-auto-programming.git
