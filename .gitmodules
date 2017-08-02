@@ -67,3 +67,6 @@
 [submodule "start/vim-auto-programming"]
 	path = start/vim-auto-programming
 	url = git://github.com/haya14busa/vim-auto-programming.git
+[submodule "start/FastFold"]
+	path = start/FastFold
+	url = git://github.com/Konfekt/FastFold.git
