@@ -1,9 +1,6 @@
 [submodule "start/vimtex"]
 	path = start/vimtex
 	url = https://github.com/lervag/vimtex
-[submodule "opt/ale"]
-	path = opt/ale
-	url = https://github.com/w0rp/ale
 [submodule "start/typescript-vim"]
 	path = start/typescript-vim
 	url = https://github.com/leafgarland/typescript-vim
@@ -70,3 +67,6 @@
 [submodule "opt/iceberg.vim"]
 	path = opt/iceberg.vim
 	url = git://github.com/cocopon/iceberg.vim.git
+[submodule "start/FastFold"]
+	path = start/FastFold
+	url = git://github.com/Konfekt/FastFold.git
