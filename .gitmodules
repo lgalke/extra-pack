@@ -67,3 +67,6 @@
 [submodule "start/vim-auto-programming"]
 	path = start/vim-auto-programming
 	url = git://github.com/haya14busa/vim-auto-programming.git
+[submodule "opt/iceberg.vim"]
+	path = opt/iceberg.vim
+	url = git://github.com/cocopon/iceberg.vim.git
