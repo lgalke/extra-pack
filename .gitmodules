@@ -1,9 +1,6 @@
 [submodule "start/vimtex"]
 	path = start/vimtex
 	url = https://github.com/lervag/vimtex
-[submodule "start/typescript-vim"]
-	path = start/typescript-vim
-	url = https://github.com/leafgarland/typescript-vim
 [submodule "start/tabular"]
 	path = start/tabular
 	url = https://github.com/godlygeek/tabular
@@ -76,3 +73,6 @@
 [submodule "opt/nova-vim"]
 	path = opt/nova-vim
 	url = git://github.com/trevordmiller/nova-vim.git
+[submodule "start/yats.vim"]
+	path = start/yats.vim
+	url = git://github.com/HerringtonDarkholme/yats.vim.git
