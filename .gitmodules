@@ -67,9 +67,6 @@
 [submodule "opt/ale"]
 	path = opt/ale
 	url = git://github.com/w0rp/ale.git
-[submodule "start/riv.vim"]
-	path = start/riv.vim
-	url = git://github.com/Rykka/riv.vim.git
 [submodule "opt/nova-vim"]
 	path = opt/nova-vim
 	url = git://github.com/trevordmiller/nova-vim.git
