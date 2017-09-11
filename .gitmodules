@@ -79,3 +79,6 @@
 [submodule "start/riv.vim"]
 	path = start/riv.vim
 	url = git://github.com/Rykka/riv.vim.git
+[submodule "start/InstantRst"]
+	path = start/InstantRst
+	url = git://github.com/Rykka/InstantRst.git
