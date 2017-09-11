@@ -76,3 +76,6 @@
 [submodule "start/SimpylFold"]
 	path = start/SimpylFold
 	url = git://github.com/tmhedberg/SimpylFold.git
+[submodule "start/riv.vim"]
+	path = start/riv.vim
+	url = git://github.com/Rykka/riv.vim.git
