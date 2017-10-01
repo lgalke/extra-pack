@@ -79,3 +79,6 @@
 [submodule "start/InstantRst"]
 	path = start/InstantRst
 	url = git://github.com/Rykka/InstantRst.git
+[submodule "start/vim-enmasse"]
+	path = start/vim-enmasse
+	url = https://github.com/Olical/vim-enmasse
