@@ -82,3 +82,6 @@
 [submodule "start/vim-enmasse"]
 	path = start/vim-enmasse
 	url = https://github.com/Olical/vim-enmasse
+[submodule "start/emmet-vim"]
+	path = start/emmet-vim
+	url = git://github.com/mattn/emmet-vim.git
