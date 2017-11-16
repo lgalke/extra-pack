@@ -85,3 +85,9 @@
 [submodule "start/typescript-vim"]
 	path = start/typescript-vim
 	url = git://github.com/leafgarland/typescript-vim.git
+[submodule "start/vim-javascript"]
+	path = start/vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "start/vim-instant-markdown"]
+	path = start/vim-instant-markdown
+	url = git://github.com/suan/vim-instant-markdown.git
