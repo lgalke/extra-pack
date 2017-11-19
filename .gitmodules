@@ -91,3 +91,6 @@
 [submodule "start/vim-instant-markdown"]
 	path = start/vim-instant-markdown
 	url = git://github.com/suan/vim-instant-markdown.git
+[submodule "start/tsuquyomi"]
+	path = start/tsuquyomi
+	url = git://github.com/Quramy/tsuquyomi.git
