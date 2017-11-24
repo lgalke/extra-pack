@@ -82,3 +82,6 @@
 [submodule "start/vim-enmasse"]
 	path = start/vim-enmasse
 	url = https://github.com/Olical/vim-enmasse
+[submodule "start/vim-edgemotion"]
+	path = start/vim-edgemotion
+	url = git://github.com/haya14busa/vim-edgemotion.git
