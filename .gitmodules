@@ -94,3 +94,9 @@
 [submodule "start/tsuquyomi"]
 	path = start/tsuquyomi
 	url = git://github.com/Quramy/tsuquyomi.git
+[submodule "opt/Alduin"]
+	path = opt/Alduin
+	url = git://github.com/AlessandroYorba/Alduin.git
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = git://github.com/vim-airline/vim-airline.git
