@@ -64,9 +64,6 @@
 [submodule "opt/nova-vim"]
 	path = opt/nova-vim
 	url = git://github.com/trevordmiller/nova-vim.git
-[submodule "start/yats.vim"]
-	path = start/yats.vim
-	url = git://github.com/HerringtonDarkholme/yats.vim.git
 [submodule "start/html5.vim"]
 	path = start/html5.vim
 	url = git://github.com/othree/html5.vim.git
@@ -85,3 +82,21 @@
 [submodule "start/vim-edgemotion"]
 	path = start/vim-edgemotion
 	url = git://github.com/haya14busa/vim-edgemotion.git
+[submodule "start/emmet-vim"]
+	path = start/emmet-vim
+	url = git://github.com/mattn/emmet-vim.git
+[submodule "start/typescript-vim"]
+	path = start/typescript-vim
+	url = git://github.com/leafgarland/typescript-vim.git
+[submodule "start/vim-javascript"]
+	path = start/vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "start/vim-instant-markdown"]
+	path = start/vim-instant-markdown
+	url = git://github.com/suan/vim-instant-markdown.git
+[submodule "opt/Alduin"]
+	path = start/Alduin
+	url = git://github.com/AlessandroYorba/Alduin.git
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = git://github.com/vim-airline/vim-airline.git
